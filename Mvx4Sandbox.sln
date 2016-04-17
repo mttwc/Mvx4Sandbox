@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvx4Sandbox.iOS", "Mvx4Sand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvx4Sandbox.WinPhone", "Mvx4Sandbox\Mvx4Sandbox.WinPhone\Mvx4Sandbox.WinPhone.csproj", "{A54236E8-803C-4D51-B925-8BB56D1EA40F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvx4Sandbox", "Mvx4Sandbox\Mvx4Sandbox\Mvx4Sandbox.csproj", "{A7CC8FBD-297B-4D69-889F-796D1D8BB73F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvx4Sandbox.Core", "Mvx4Sandbox\Mvx4Sandbox\Mvx4Sandbox.Core.csproj", "{A7CC8FBD-297B-4D69-889F-796D1D8BB73F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

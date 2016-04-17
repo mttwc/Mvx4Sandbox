@@ -79,8 +79,9 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mvx4Sandbox\Mvx4Sandbox.csproj">
-      <Name>Mvx4Sandbox</Name>
+    <ProjectReference Include="..\Mvx4Sandbox\Mvx4Sandbox.Core.csproj">
+      <Name>Mvx4Sandbox.Core</Name>
+      <Project>{A7CC8FBD-297B-4D69-889F-796D1D8BB73F}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
