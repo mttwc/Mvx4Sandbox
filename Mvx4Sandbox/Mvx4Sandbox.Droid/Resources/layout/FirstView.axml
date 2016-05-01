@@ -13,7 +13,8 @@
         android:text="Camera"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/cameraButton" />
+        android:id="@+id/cameraButton"
+        android:onClick="OnButtonClicked" />
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
