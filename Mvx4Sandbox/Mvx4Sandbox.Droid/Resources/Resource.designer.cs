@@ -113,6 +113,12 @@ namespace Mvx4Sandbox.Droid
 			// aapt resource value: 0x7f050001
 			public const int MvxBindingTagUnique = 2131034113;
 			
+			// aapt resource value: 0x7f050002
+			public const int cameraButton = 2131034114;
+			
+			// aapt resource value: 0x7f050003
+			public const int detectedTextView = 2131034115;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
