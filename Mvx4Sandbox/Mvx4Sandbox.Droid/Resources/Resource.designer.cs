@@ -47,6 +47,8 @@ namespace Mvx4Sandbox.Droid
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView = global::Mvx4Sandbox.Droid.Resource.Styleable.MvxListView;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::Mvx4Sandbox.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxItemTemplate = global::Mvx4Sandbox.Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::Tesseract.Droid.Resource.String.ApplicationName = global::Mvx4Sandbox.Droid.Resource.String.ApplicationName;
+			global::Tesseract.Droid.Resource.String.Hello = global::Mvx4Sandbox.Droid.Resource.String.Hello;
 		}
 		
 		public partial class Attribute
@@ -105,11 +107,11 @@ namespace Mvx4Sandbox.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f040000
-			public const int MvvmCrossTagId = 2130968576;
+			// aapt resource value: 0x7f050000
+			public const int MvvmCrossTagId = 2131034112;
 			
-			// aapt resource value: 0x7f040001
-			public const int MvxBindingTagUnique = 2130968577;
+			// aapt resource value: 0x7f050001
+			public const int MvxBindingTagUnique = 2131034113;
 			
 			static Id()
 			{
@@ -143,11 +145,17 @@ namespace Mvx4Sandbox.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f060001
-			public const int app_name = 2131099649;
+			// aapt resource value: 0x7f040001
+			public const int ApplicationName = 2130968577;
 			
-			// aapt resource value: 0x7f060000
-			public const int hello = 2131099648;
+			// aapt resource value: 0x7f040000
+			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040003
+			public const int app_name = 2130968579;
+			
+			// aapt resource value: 0x7f040002
+			public const int hello = 2130968578;
 			
 			static String()
 			{
@@ -162,8 +170,8 @@ namespace Mvx4Sandbox.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int Theme_Splash = 2131034112;
+			// aapt resource value: 0x7f060000
+			public const int Theme_Splash = 2131099648;
 			
 			static Style()
 			{
